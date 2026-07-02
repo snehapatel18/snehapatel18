@@ -95,3 +95,30 @@ class SnehaChapala:
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatel18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=snehapatel18&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=snehapatel18&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapatel18&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build enterprise-level full-stack applications
+- 🌱 Contribute to open source projects
+- ☁️ Learn AWS and cloud deployment
+- 🤖 Master Spring Boot & React
+- 📊 Build AI-powered applications
