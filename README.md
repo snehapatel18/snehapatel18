@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 ```python
@@ -46,36 +44,54 @@ class SnehaChapala:
     ]
 
     fun_fact = "I love building useful projects."
+```
+
 ---
 
-## ⚡ Skills
+# ⚡ Skills
 
-### 💻 Languages
-<p>
+## 💻 Languages
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### 🛠 Developer Tools
-<p>
+---
+
+## 🛠️ Developer Tools
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-### 🌱 Frameworks & Libraries
-<p>
+---
+
+## 🌱 Frameworks
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,react" />
 </p>
 
-### 🗄 Databases
-<p>
+---
+
+## 🗄️ Databases
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🎨 Web Technologies
-<p>
+---
+
+## 🎨 Web Technologies
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 📊 Other Tools
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+---
+
+## 📊 Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
